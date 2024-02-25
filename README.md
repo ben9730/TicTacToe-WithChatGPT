@@ -19,11 +19,11 @@ https://tictocappbengu.tiiny.site/
 
 ## Usage
 
-2. Click the `https://tictocappbengu.tiiny.site/`.
+1. Click the `https://tictocappbengu.tiiny.site/`.
 
-3. Click on the cells to mark them with your symbol (X or O).
+2. Click on the cells to mark them with your symbol (X or O).
 
-4. Play until one player wins or the game ends in a draw.
+3. Play until one player wins or the game ends in a draw.
 
-5. Click the "Restart Game" button to start a new game.
+4. Click the "Restart Game" button to start a new game.
 
